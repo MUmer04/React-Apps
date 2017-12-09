@@ -1,7 +1,7 @@
 import React from 'react';
 import {
 Link
-} from require('react-router');
+} from 'react-router-dom';
 
 class Modal extends React.Component {
 constructor(props) {
